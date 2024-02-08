@@ -136,6 +136,15 @@ body {
     margin: 20px;
 }
 
+.container__6 {
+    width: 156px;
+    height: 78px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #9D0208;
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
 .container__fifth {
     color: #FFF;
     font-family: Roboto;
