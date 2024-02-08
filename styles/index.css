@@ -28,7 +28,6 @@ body {
 .container__first {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     align-items: flex-end;
 }
 
@@ -44,8 +43,7 @@ body {
 .container__second {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -62,7 +60,6 @@ body {
 .container__third {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -80,7 +77,6 @@ body {
 .container__forth {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -98,7 +94,6 @@ body {
 .container__fifth {
    display: flex;
    flex-direction: row;
-   flex-wrap: wrap;
    justify-content: space-between;
    align-items: center;
 }
@@ -115,7 +110,6 @@ body {
 .container__sixth {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
